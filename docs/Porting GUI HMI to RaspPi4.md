@@ -97,5 +97,6 @@ cd yocto/poky
 source oe-init-build-env
 bitbake core-image-sato
 ```
-when it completed, you can flash this image to your SD Card and start your device to check GUI QT/QML
-**Notes:** Make sure /dev/sdb is your correct memory card device!
+When it completed, you can flash this image to your SD Card and start your device to check GUI QT/QML
+
+**Notes:** Make sure /dev/sdb is your correct memory card device when you Flash image!

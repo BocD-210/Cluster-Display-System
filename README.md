@@ -29,6 +29,29 @@ Simulation of an automotive system featuring a **Digital Instrument Cluster (IPC
 
 ## Illustration.
 
-### Demo My HMI on Qt Creator
+### Video demo of project results: [Google Drive Link](https://drive.google.com/file/d/1ATdEQX1CZ-gO_pBWa4IgX9KCj8kmD0T1/view?usp=sharing)
+
+### Demo My HMI on Qt Creator.
 
 ![Diagram](My_HMI.png)
+
+### Image of Hardware.
+
+![Diagram](Hardware.png)
+
+## Workspace Structure.
+
+## Contributing.
+
+## References.
+- Build Image in Yocto Project: [Yocto Project](https://devlinux.vn/blog/Build-Image-cho-Raspberry-Pi-Zero-W)
+- Qt Documentation: [doc.qt.io](https://doc.qt.io)
+- SocketCAN Documentation: [docs.kernel.org/networking/can.html](https://docs.kernel.org/networking/can.html)
+- STM32 Reference Manual (RM0008): STMicroelectronics (2018)
+- Electrical / Electronic Architecture Overview: [E/E Architecture Overview](https://www.linkedin.com/pulse/automotive-ee-architecture-introduction-jinesh-vinayachandran-nzanc/)
+- ISO 26262: Road vehicles – Functional safety (2018)
+- ISO 2575: Road vehicles – Symbols for controls, indicators and tell-tales (2024)
+
+## Contact
+
+For issues or inquiries, open a GitHub issue or contact [bocdo210@gmail.com]

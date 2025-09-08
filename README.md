@@ -43,6 +43,20 @@ Simulation of an automotive system featuring a **Digital Instrument Cluster (IPC
 
 ## Contributing.
 
+We welcome contributions from the community! 🎉
+
+To contribute:
+1. Fork this repository
+2. Create your feature branch (`git checkout -b feature/my-feature`)
+3. Commit your changes (`git commit -m 'Add some feature'`)
+4. Push to the branch (`git push origin feature/my-feature`)
+5. Open a Pull Request
+
+Please make sure your code follows our coding style and passes all tests.
+If you find a bug or have an idea for improvement, feel free to open an Issue first.
+
+Thank you for contributing! 🙌
+
 ## References.
 - Build Image in Yocto Project: [Yocto Project](https://devlinux.vn/blog/Build-Image-cho-Raspberry-Pi-Zero-W)
 - Qt Documentation: [doc.qt.io](https://doc.qt.io)

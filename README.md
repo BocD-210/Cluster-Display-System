@@ -28,3 +28,7 @@ Simulation of an automotive system featuring a **Digital Instrument Cluster (IPC
 - Yocto Project for building custom Raspberry Pi images
 
 ## Illustration.
+
+### Demo My HMI on Qt Creator
+
+![Diagram](My_HMI.png)

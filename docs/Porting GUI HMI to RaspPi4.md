@@ -1,4 +1,4 @@
-# **PORTING GUI HMI TO RAPSBERRY PI 4**
+# **PORTING GUI HMI TO RAPSBERRY PI 4 BY YOCTO PROJECT**
 
 ## Prerequisistes 
 - OS: Ubuntu 18.04 or later:

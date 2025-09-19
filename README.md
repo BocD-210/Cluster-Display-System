@@ -40,6 +40,10 @@ Simulation of an automotive system featuring a **Digital Instrument Cluster (IPC
 ![Diagram](Hardware.png)
 
 ## Workspace Structure.
+### Flowchart
+
+![Diagram](Flowchart.png)
+
 
 ## Contributing.
 
